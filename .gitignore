@@ -1,0 +1,9 @@
+/Lab1/*.o
+/Lab1/*.asm
+/Lab1/lib.inc.save*
+/Lab2/*.o
+/Lab5/filename*
+/Lab6/*.bmp
+/Lab7/build
+/Lab8/*.bmp
+/Lab8/bin
